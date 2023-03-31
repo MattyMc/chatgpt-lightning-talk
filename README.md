@@ -1,8 +1,10 @@
 # ChatGPT for Developers
 
-This repository contains the examples and notes from my (Matt McInnis) lightning talk delivered on March 31, 2023 with our wonderful friends at [VirtualCoffee.io](virtualcoffee.io).
+This repository contains the examples and notes from my (Matt McInnis) lightning talk delivered on March 31, 2023 with our wonderful friends at [VirtualCoffee.io]([virtualcoffee.io](https://www.virtualCoffee.io)).
 
-Bonus gist with video: [Overcoming Tokenization Problems in Prompting LLMs](https://gist.github.com/MattyMc/6400a86d88ffa69f8e235e4821a2cd70)
+I'd love more developers and tech in my Twitters news feed, so please connect with me on [Twitter](https://twitter.com/MattLovesMath)!
+
+Bonus ChatGPT gist with video: [Overcoming Tokenization Problems in Prompting LLMs (Intermediate)](https://gist.github.com/MattyMc/6400a86d88ffa69f8e235e4821a2cd70)
 
 ## Example Code and Prompts
 
